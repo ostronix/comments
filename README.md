@@ -3,6 +3,7 @@
 ## Install MODULES
 
 <p align="center">VKstatic</p>
+
 ```shell
 npm install vkstatic@1.3.0
 ```
